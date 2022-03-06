@@ -1,5 +1,5 @@
-# Here is what I'm Working On! 👋
-
+# Hi there!👋
+Here is what I'm Working On:
 - 🔭 I’m currently working on Blockchain Technology.
 - 🌱 I’m currently learning Flutter!
 - 👯 I’m looking for a job as a Mobile App Developer.
