@@ -30,6 +30,7 @@
    <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
    <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
    <img src="https://img.icons8.com/stickers/40/000000/selenium-test-automation.png"/>
+   <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
    <img src="https://img.icons8.com/fluency/40/000000/wordpress.png"/>
    <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/40/000000/firebase.png"/>
