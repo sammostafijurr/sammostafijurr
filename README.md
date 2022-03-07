@@ -1,4 +1,8 @@
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sammostafijurr">
+</a>
+<a href="https://github.com/sammostafijurr?tab=followers"><img src="https://img.shields.io/github/followers/sammostafijurr?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mostafijur</h1>
 <h3 align="center">I'm a passionate Mobile App Developer from Bangladesh.</h3>
@@ -75,8 +79,3 @@
 
 </p>
 
-## Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sammostafijurr">
-</a>
-<a href="https://github.com/sammostafijurr?tab=followers"><img src="https://img.shields.io/github/followers/sammostafijurr?label=Followers&style=social" alt="GitHub Badge"></a>
