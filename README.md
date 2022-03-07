@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1506452819137-0422416856b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1373&q=80"/></a>
+<a href="#"><img width="50%" height="auto" src="https://w7.pngwing.com/pngs/51/881/png-transparent-programmer-source-code-computer-computer-computer-program-computer-programming.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mostafijur</h1>
 <h3 align="center">I'm a passionate Mobile App Developer from Bangladesh.</h3>
