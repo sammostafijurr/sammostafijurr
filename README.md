@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="5%" src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvMjAwLWFlLTMwMTYuanBn.jpg?s=WXoOplaRIjZqhc--VSEl1-aNhohBaYuTZnDoEomSfIc"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mostafijur</h1>
 <h3 align="center">I'm a passionate Mobile App Developer from Bangladesh.</h3>
